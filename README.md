@@ -1,2 +1,2 @@
-# workerpool
-Simple workerpool written in Go
+# WorkerPool
+Simple WorkerPool written in Go.
